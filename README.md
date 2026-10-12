@@ -2,12 +2,7 @@
 
 Predicts the resale price of a used car in India from its specs, and compares an asking price with the estimate.
 
-<<<<<<< HEAD
-**🔗 Live demo:** [Try the app]([YOUR_STREAMLIT_APP_URL]))
-=======
 **🔗 Live demo:** [Try the app](https://used-car-price-predictor-dt4tgazpbcqcvelwx2dqpa.streamlit.app/)
->>>>>>> c56527c (Update README with project and profile links)
-
 ![Used Car Price Predictor - Dashboard](reports/app_screenshot_1.png)
 
 ![Used Car Price Predictor - Prediction Results](reports/app_screenshot_2.png)
